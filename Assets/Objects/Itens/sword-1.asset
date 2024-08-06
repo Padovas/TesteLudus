@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5050875eac777f469aba70b8f98d3b5, type: 3}
+  m_Name: sword-1
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 95052c6b62fb3de4695beaa99f842ac2, type: 3}
+  itemName: ESPADA DE ENMA
+  description: Veio de algum lugar ae... Deve ser boa pra fatiar uns tolos
+  isStackable: 0
+  maxStack: 100
+  type: 3
+  changeProperty: 4
+  propertyName: Dano
+  propertyValue: 14
