@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEditor.U2D.Aseprite;
-using UnityEditor.UIElements;
 using UnityEngine;
 
 public class ItemSpawner : MonoBehaviour
